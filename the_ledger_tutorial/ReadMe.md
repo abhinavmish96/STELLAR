@@ -18,7 +18,7 @@ SCP opts for safety over liveness — in the event of partition or misbehavi
 
 It is possible to become part of the network by running a Stellar Core instance. Such an instance can be easily set up with stellar/quickstart docker image.
 
-####Testnet
+#### Testnet
 
 Luckily, Stellar provides a testnet for development purpose. Information can be found here.
 
